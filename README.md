@@ -20,7 +20,7 @@ Google Books Search app.
 You can check out the deployed here: https://mikegoat1.github.io/Portfolio-2.0/#/
 ## Usage
 
-
+<image src="./Google.png">
 
 ## Credits
 
