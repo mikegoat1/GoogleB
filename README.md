@@ -3,7 +3,7 @@
 ## Description
 
 
-A fun little books app
+Google Books Search app. 
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@ A fun little books app
 ## Installation
 
 
-// To add a screenshot, create an assets/images folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README.
+You can check out the deployed here: https://mikegoat1.github.io/Portfolio-2.0/#/
 ## Usage
 
 
